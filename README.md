@@ -44,6 +44,11 @@
 [03] E-mail Brute Force
 ```
 
++ ### Note
+```
+Please use tor in background while you're trying to hack instagram account
+```
+
 + ### Information Gathering
 ```
 [01] Track IP Location
