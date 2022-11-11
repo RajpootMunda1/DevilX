@@ -138,6 +138,7 @@ apt update -y;apt upgrade -y;apt install git -y;git clone https://github.com/MrH
 
 + After launching ```DevilX``` just select here what you want to do and type that number and press ENTER to continue.
 
++ You need to use `tor` in background while you try to bruteforce Instagram account `Don't Forget it` Otherwise you will get a server down error
 ## Screenshots
 ### Main menu
 
