@@ -94,7 +94,7 @@ Like this:
 
 ## facing Issue ?
 
-+ If you're facing any kind of issue or error then you can tell me on instagram, My profile usrl is given down below
++ If you're facing any kind of issue or error then you can tell me on instagram, My profile URL is given down below
 
 + [instagram](https://instagram.com/0hacker_x0)
 
