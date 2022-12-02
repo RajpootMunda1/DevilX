@@ -6,13 +6,13 @@
 
 <p align="center">
 <a href="https://instagram.com/0hacker_x0"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-DevilX-green.svg"></a>
-<a href="https://youtube.com/c/@Technolex"><img title="Version" src="https://img.shields.io/badge/Version-0.91.1-green.svg?style=flat-square"></a>
-<a href="https://youtube.com/c/@Technolex"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+<a href="https://youtube.com/@Technolex"><img title="Version" src="https://img.shields.io/badge/Version-0.91.1-green.svg?style=flat-square"></a>
+<a href="https://youtube.com/@Technolex"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 
 <p align="center">
 <a href="https://github.com/MrHacker-X"><img title="Github" src="https://img.shields.io/badge/MrHacker-X-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://youtube.com/c/@Technolex"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Technolex-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://youtube.com/@Technolex"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Technolex-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">
 <a href="https://github.com/MrHacker-X"><img title="Language" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?v=103"></a>
