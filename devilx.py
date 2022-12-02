@@ -46,7 +46,7 @@ about = """
 
 \033[1;91m>>> \033[1;97mInstagram: 0hacker_x0
 \033[1;91m>>> \033[1;97mGithub   : MrHacker-X
-\033[1;91m>>> \033[1;97mYouTube  : Sololex
+\033[1;91m>>> \033[1;97mYouTube  : @Technolex
 \033[1;91m>>> \033[1;97mTelegram : hackwithalex
 \033[1;91m>>> \033[1;97mFacebook : hackerxmr
 
@@ -4381,7 +4381,7 @@ while True:
                 print()
                 print("\033[1;91m[*] \033[1;97mOpening my YouTube channel in your device \n")
                 sleep(0.8)
-                os.system("xdg-open https://youtube.com/c/Sololex")
+                os.system("xdg-open https://youtube.com/c/@Technolex")
             
             elif fol == '5' or fol == '05':
                 print()
