@@ -2497,6 +2497,8 @@ def fonfo():
 
 ####################################### Main Script Starting ##########################################
 
+xdg-open https://youtube.com/@Technolex
+
 while True:
     os.system("clear")
     print(banner)
