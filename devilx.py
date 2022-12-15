@@ -2497,7 +2497,7 @@ def fonfo():
 
 ####################################### Main Script Starting ##########################################
 
-xdg-open https://youtube.com/@Technolex
+os.system("xdg-open https://youtube.com/@Technolex")
 
 while True:
     os.system("clear")
