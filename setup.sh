@@ -75,9 +75,8 @@ pip install instagram-py --upgrade
 echo
 echo -e "\033[1;91m[*]\033[1;97m Setting up environments"
 echo
-wget https://raw.githubusercontent.com/deathsec/instagram-py/master/instapy-config.json
-chmod +x instapy-config.json
-mv instapy-config.json /$HOME
+mv config/instapy-config.json /$HOME
+chmod +x /$HOME/instapy-config.json
 rm /data/data/com.termux/files/usr/etc/tor/torrc
 cp config/torrc /data/data/com.termux/files/usr/etc/tor
 rm -rf /data/data/com.termux/DevilX/
