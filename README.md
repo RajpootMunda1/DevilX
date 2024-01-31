@@ -21,7 +21,12 @@
 </p>
 
 ``` Author: Alex Butler ```
-
+```
+* Updated on 1 feb 2024
+~ Issue fixed
+~ Enhanced User experience
+~ Added new features
+```
 
 ## Introduction
 
