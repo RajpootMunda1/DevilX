@@ -7,9 +7,9 @@ echo -e "\033[1;91m
 █  ████  ██  ██████████    ████  ██  █████████  ██  ██
 █       ███        █████  █████  ██        ██  ████  █
 ██████████████████████████████████████████████████████
-     \033[1;90m github.com/MrHacker-X     ~  \033[1;92m  Version: 1.1.2 "
+     \033[1;90m github.com/Alone Stand Larka Anas     ~  \033[1;92m  Version: 1.1.2 "
 
-echo -e "\n\033[1;90m~ All the necessary packages and modules is about to install in your termux"
+echo -e "\n\033[1;90m~ Alone Stand Larka Anas"
 echo -e "\033[1;94m"
 read -p "Press ENTER To Continue"
 echo -e "\033[1;92m"
