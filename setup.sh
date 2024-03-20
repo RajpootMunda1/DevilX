@@ -26,5 +26,5 @@ pip install bs4
 pip install beautifulsoup4
 pip install requests
 pip install instaloader
-echo -e "\n\033[1;92m~ Installation is done\n~ Now type 'python devilx.py' to run the tool\n"
+echo -e "\n\033[1;92m~ Installation is done\n~ Now type 'python anasx.py' to run the tool\n"
 exit
