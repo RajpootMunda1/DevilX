@@ -1,8 +1,8 @@
-# DevilX
+# AloneStandLarkaAnas
 
 <p align="center">
 <p align="center">
-<a href="https://instagram.com/haxorlex"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-DevilX-green.svg"></a>
+<a href="https://instagram.com/haxorlex"><img title="Made in PAKISTAN" src="https://img.shields.io/badge/Tool-DevilX-green.svg"></a>
 <a href="https://youtube.com/@Technolex"><img title="Version" src="https://img.shields.io/badge/Version-0.91.1-green.svg?style=flat-square"></a>
 <a href="https://youtube.com/@Technolex"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
